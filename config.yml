@@ -1,0 +1,7 @@
+server:
+  port: 5432
+
+database:
+  dbname: book_backend
+  dbuser: "user"
+  dbpassword: "secret"
