@@ -1,6 +1,6 @@
 # go-books
 CRUD BOOKS in GO
-Just Books, probably _review_
+Just Books, _probably review_
 
 Experimenting docker with postgres for simple CRUD app
 
