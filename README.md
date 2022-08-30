@@ -18,4 +18,4 @@ Experimenting docker with postgres for simple CRUD app
 - handles routes
 
 # TODO
-- ?
+- add reviews
